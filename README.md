@@ -1,15 +1,15 @@
 <<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Getting Started 
 
 First, run the development server:
-
+ 
 ```bash
-npm run dev
+npm run dev  
 # or
 yarn dev
-# or
+# or 
 pnpm dev
 # or
 bun dev
@@ -39,3 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # AI-Career-Coach
 AI-driven Full-Stack Career Coach platform built with Next.js, Tailwind CSS, Prisma, Neon, and shadcn/ui — delivering personalized career guidance and interview preparation at scale.
 >>>>>>> c5bd6442160e39dc3e9c0c93a9f76d46e7119c80
+ 
